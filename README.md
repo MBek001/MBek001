@@ -1,12 +1,18 @@
 - 👋 Hi, I’m @MBek001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBek001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBek001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- ## Contributors
+
+- [Akhmadjon](https://github.com/1akhmadjon)
+- [Rahmatjon](https://github.com/Rahmet97)
+- [Sherzod](https://github.com/Hoopakid)
+## Support
+
+If you encounter any issues or have questions, feel free to open an issue or reach out to us on [Gitter](link-to-gitter-chat).
+
+
 
 
 
