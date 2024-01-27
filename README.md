@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MIrzabek
+- 👋 Hi, I’m Mirzabek
 
  
  ## Technical Skills
