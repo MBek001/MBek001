@@ -1,10 +1,8 @@
 - 👋 Hi, I’m MIrzabek
-- ## Technical Skills
 
- [<img src="https://www.python.org/static/img/python-logo.png" alt="Python Logo" width="100"/>](https://www.python.org/)
+ 
  ## Technical Skills
-
-- 
+ - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -15,7 +13,7 @@
 
 ## Frameworks & Libraries
 
- ![Django](https://img.shields.io/badge/-Django-095E35?style=flat&logo=django&logoColor=white)
+ - ![Django](https://img.shields.io/badge/-Django-095E35?style=flat&logo=django&logoColor=white)
  ![Django Rest Framework](https://img.shields.io/badge/-Django%35Rest%50Framework-092E20?style=flat&logo=django&logoColor=white) 
  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
@@ -30,8 +28,8 @@
 ## Deployment & DevOps
 
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
-- ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2D89E5?style=flat&logo=github-actions&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2D89E5?style=flat&logo=github-actions&logoColor=white)
 
 ## Testing
 
