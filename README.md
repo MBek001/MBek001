@@ -5,7 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![GitHub forks](https://img.shields.io/github/forks/MBek001/MBek001/Zay_Shop)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBek001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 <!---
