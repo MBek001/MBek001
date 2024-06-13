@@ -29,6 +29,7 @@
 
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2D89E5?style=flat&logo=github-actions&logoColor=white)
 
 ## Testing
