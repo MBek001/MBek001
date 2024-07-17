@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m Mirzabek
 - 🌟 Technical Skills
--
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -32,7 +31,7 @@
 - ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
 - 📊 GitHub Stats
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBek001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBek001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBek001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌟 Contributors
