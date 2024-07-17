@@ -80,4 +80,3 @@
 
 - 📧 Email: mrzbku@gmail.com
 
-Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or collaboration ideas, feel free to reach out! 😊
