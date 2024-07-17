@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Mirzabek
 
- 
- ## Technical Skills
- - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- 👋 Hi, I’m Mirzabek
+🌟 Technical Skills
+ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
  ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -11,53 +10,53 @@
  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Frameworks & Libraries
-
+📚 Frameworks & Libraries
  - ![Django](https://img.shields.io/badge/-Django-095E35?style=flat&logo=django&logoColor=white)
  ![Django Rest Framework](https://img.shields.io/badge/-Django%35Rest%50Framework-092E20?style=flat&logo=django&logoColor=white) 
  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-## Database
-
+🗄️ Database
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-092E20?style=flat&logo=sqlalchemy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-
-## Deployment & DevOps
-
+🚀 Deployment & DevOps
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2D89E5?style=flat&logo=github-actions&logoColor=white)
 
-## Testing
-
+🧪 Testing
 - ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
-
-
-
-
-
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBek001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+📊 GitHub Stats
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MBek001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MBek001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-- ## Contributors
 
-- [Akhmadjon](https://github.com/1akhmadjon)
-- [Rahmatjon](https://github.com/Rahmet97)
-- [Sherzod](https://github.com/Hoopakid)
-## Support
+🌟 Contributors
+<table>
+  <tr>
+    <th>Contributor</th>
+    <th>GitHub Profile</th>
+  </tr>
+  <tr>
+    <td>Akhmadjon</td>
+    <td><a href="https://github.com/1akhmadjon">https://github.com/1akhmadjon</a></td>
+  </tr>
+  <tr>
+    <td>Rahmatjon</td>
+    <td><a href="https://github.com/Rahmet97">https://github.com/Rahmet97</a></td>
+  </tr>
+  <tr>
+    <td>Sherzod</td>
+    <td><a href="https://github.com/Hoopakid">https://github.com/Hoopakid</a></td>
+  </tr>
+</table>
 
-If you encounter any issues or have questions, feel free to open an issue or reach out to us on [Gitter](link-to-gitter-chat).
 
 
-
-
-
-
-<!---
+!---
 MBek001/MBek001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
