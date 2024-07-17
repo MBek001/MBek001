@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m Mirzabek
-🌟 Technical Skills
+-🌟 Technical Skills
 -
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
