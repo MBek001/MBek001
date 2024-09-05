@@ -1,10 +1,9 @@
-
-<p align='center'>
-  <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg'></img>
-
 # 💫 About Me:
 <br><br>
 
+
+<p align='center'>
+  <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg'></img>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/u1ugbekovich_01) 
