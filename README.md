@@ -1,5 +1,9 @@
 # 💫 About Me:
-# Name : Mirzabek
+# Name: Mirzabek
+# Age: 22
+# Country: Uzbekistan 🇺🇿
+# WorkPlace: Cognilabs.org
+
 <br><br>
 
 # 📊 GitHub Stats:
