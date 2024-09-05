@@ -1,5 +1,5 @@
 # 💫 About Me:
-Name : MIrzabek
+# Name : Mirzabek
 <br><br>
 
 # 📊 GitHub Stats:
