@@ -33,7 +33,7 @@
 - Coordinating backend and frontend collaboration across projects
 
 ### 🏢 SectorSoft
-**Backend Developer**
+**Backend Developer** . *Current*
 - Developed and maintained REST APIs using Python (FastAPI / Django REST Framework)
 - Worked with PostgreSQL, Redis, Docker, and Nginx in production environments
 - Contributed to system design and deployment pipelines on DigitalOcean
@@ -78,7 +78,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MBek001&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MBek001&theme=dracula&hide_border=false)
 
