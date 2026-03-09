@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Ulugbek (MBek001)
+# 👋 Hey, I'm Mirzabek (MBek001)
 
 ### 🐍 Python Backend Developer | FastAPI · Django · Docker · AI Enthusiast
 
@@ -66,7 +66,15 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MBek001&theme=dracula&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MBek001&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MBek001&theme=dracula&hide_border=false&layout=compact&langs_count=8)
 
 </div>
 
@@ -76,7 +84,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MBek001&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=MBek001&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
@@ -86,7 +94,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MBek001&theme=dracula&hide_border=false)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MBek001&bg_color=282a36&color=ff79c6&line=bd93f9&point=ff79c6&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -104,12 +112,51 @@
 
 </div>
 
+<details>
+<summary>⚙️ Snake setup — click to expand</summary>
+
+1. Go to your repo: `github.com/MBek001/MBek001`
+2. Create file: `.github/workflows/snake.yml`
+3. Paste this:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: MBek001
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+4. Go to **Actions** tab → **Generate Snake** → **Run workflow**
+5. Wait ~30 seconds → snake appears ✅
+
+</details>
+
 ---
 
 ## 🌱 Currently Learning
 
 - 🤖 **LLMs & AI integration** — LangChain, OpenAI API, RAG pipelines
-- 🏗️ **System Design** — scalability, caching strategies, message queues (Celery + Redis)
+- 🏗️ **System Design** — scalability, caching, message queues (Celery + Redis)
 - ⚡ **Advanced async Python** — asyncio, async SQLAlchemy, background tasks
 - 🔐 **Backend Security** — JWT best practices, OAuth2, rate limiting
 
@@ -118,5 +165,7 @@
 <div align="center">
 
 *"First, solve the problem. Then, write the code." — John Johnson*
+
+[![](https://visitcount.itsvg.in/api?id=MBek001&icon=6&color=0)](https://visitcount.itsvg.in)
 
 </div>
