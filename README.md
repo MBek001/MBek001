@@ -24,6 +24,22 @@
 
 ---
 
+## 💼 Work Experience
+
+### 🏢 Cognilabs International
+**Developers Team Lead** · *Current*
+- Leading a development team building production-grade backend systems
+- Responsible for architecture decisions, code reviews, and team mentorship
+- Coordinating backend and frontend collaboration across projects
+
+### 🏢 SectorSoft
+**Backend Developer**
+- Developed and maintained REST APIs using Python (FastAPI / Django REST Framework)
+- Worked with PostgreSQL, Redis, Docker, and Nginx in production environments
+- Contributed to system design and deployment pipelines on DigitalOcean
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💡 Languages
@@ -70,26 +86,6 @@
 
 ---
 
-## 💻 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MBek001&theme=dracula&hide_border=false&layout=compact&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MBek001&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
-
 ## 📊 Activity Graph
 
 <div align="center">
@@ -111,45 +107,6 @@
 </picture>
 
 </div>
-
-<details>
-<summary>⚙️ Snake setup — click to expand</summary>
-
-1. Go to your repo: `github.com/MBek001/MBek001`
-2. Create file: `.github/workflows/snake.yml`
-3. Paste this:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: MBek001
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. Go to **Actions** tab → **Generate Snake** → **Run workflow**
-5. Wait ~30 seconds → snake appears ✅
-
-</details>
 
 ---
 
