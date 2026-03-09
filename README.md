@@ -7,7 +7,7 @@
 
 
 <p align='center'>
-  <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg'></img>
+  <img src="https://raw.githubusercontent.com/MBek001/MBek001/output/github-snake-dark.svg" />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/u1ugbekovich_01) 
