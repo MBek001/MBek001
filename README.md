@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;FastAPI+%7C+Django+%7C+Docker+%7C+PostgreSQL;Integrating+AI+into+real+products+%F0%9F%A4%96;On+the+road+to+Senior+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;FastAPI+%7C+Django+%7C+Docker+%7C+PostgreSQL;Integrating+AI+into+real+products+%F0%9F%A4%96;On+the+road+to+Senior+Backend+Developer)](https://git.io/typing-svg)
 
 <br/>
 
