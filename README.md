@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4b5b,50:287a7c,100:6d9e9d&height=200&section=header&text=Mirzabek%20(MBek001)&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4b5b,50:287a7c,100:6d9e9d&height=200&section=header&text=Mirzabek%20(MBek001)&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Python%20Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18&descColor=a0e0d0" width="100%"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/u1ugbekovich_01)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrzbku@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MBek001)
-![Profile Views](https://komarev.com/ghpvc/?username=MBek001&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=MBek001&color=287a7c&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -113,12 +113,17 @@ class MirzabekBekmurodov:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MBek001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBek001&layout=compact&langs_count=8&theme=dracula&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MBek001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBek001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MBek001&theme=dracula&hide_border=true&background=0d1117)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=MBek001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -128,7 +133,7 @@ class MirzabekBekmurodov:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MBek001&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MBek001&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -167,7 +172,7 @@ class MirzabekBekmurodov:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontSize=20&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d9e9d,50:287a7c,100:0f4b5b&height=120&section=footer&fontSize=20&fontColor=ffffff" width="100%"/>
 
 *"First, solve the problem. Then, write the code." — John Johnson*
 
