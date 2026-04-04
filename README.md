@@ -34,7 +34,7 @@ class MirzabekBekmurodov:
         "ai_tools":    ["LangChain", "OpenAI API", "Whisper", "GPT-4o"],
     }
     
-    currently_learning = ["LLMs & RAG pipelines", "System Design", "Async Python", "OAuth2"]
+    #currently_learning = ["LLMs & RAG pipelines", "System Design", "Async Python", "OAuth2"]
     goal = "Senior Backend Developer with strong AI integration expertise"
     
     def greet(self):
